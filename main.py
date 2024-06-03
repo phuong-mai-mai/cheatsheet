@@ -90,8 +90,7 @@ def cs_body():
 
     col1.subheader('Git commands')
     col1.code('''
-your commands
-
+              git checkout main
     ''')
 
     # Display data
